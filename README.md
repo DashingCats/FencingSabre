@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=vrzpbITMOiI&ab_channel=NicholasPaolucci
 Trello Link: https://trello.com/b/5cUjgDNO/planner
 
 Contributions:
+
 Noah Santos: Fusion Model, Technical Drawings, Presentation
 Taylor Horsman: Info in Bill of Materials, Presentation
 Nicholas Paolucci: Paper Prototype, Schematics, Measurements, Presentation
