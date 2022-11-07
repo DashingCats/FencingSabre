@@ -23,3 +23,25 @@ Taylor Horsman: Info in Bill of Materials, Presentation
 Nicholas Paolucci: Paper Prototype, Schematics, Measurements, Presentation
 
 Presentation Video: https://www.youtube.com/watch?v=WLKtJmeOCWE&ab_channel=TaylorHorsman
+
+
+# Assignment 3
+
+Contributions:
+
+Noah Santos: Fusion Model, 3D Printing , Presentation, Measurements, Slicer Video
+
+Nicholas Paolucci: Video Editing, 3D Printing, Presentation, Material Management
+
+Taylor Horsman: Presentation
+
+
+Project Progression Video: 
+
+Fabrication Process Video: https://youtu.be/-5JcUdEIWBI
+
+
+
+
+
+
