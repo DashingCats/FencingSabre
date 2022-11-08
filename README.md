@@ -38,7 +38,7 @@ Taylor Horsman: Presentation
 
 Project Progression Video: 
 
-Fabrication Process Video: https://youtu.be/-5JcUdEIWBI
+Fabrication Process Video: https://youtu.be/YAKfNbx1A2Q
 
 
 
