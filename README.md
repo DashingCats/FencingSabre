@@ -36,7 +36,7 @@ Nicholas Paolucci: Video Editing, 3D Printing, Presentation, Material Management
 Taylor Horsman: Presentation
 
 
-Project Progression Video: 
+Project Progression Video: https://www.youtube.com/watch?v=Jx2GR5Yj7L4&ab_channel=TaylorHorsman
 
 Fabrication Process Video: https://youtu.be/YAKfNbx1A2Q
 
