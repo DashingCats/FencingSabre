@@ -40,6 +40,12 @@ Project Progression Video: https://www.youtube.com/watch?v=Jx2GR5Yj7L4&ab_channe
 
 Fabrication Process Video: https://youtu.be/YAKfNbx1A2Q
 
+Slicer Videos:
+    
+    Iteration 1: https://youtu.be/ILARzKXBFoM
+    
+    Iteration 2: https://youtu.be/7Es7EXwWmU8
+     
 
 
 
