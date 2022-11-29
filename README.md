@@ -52,7 +52,11 @@ https://github.com/Powta/Hardware-Unity-Project
 
 
 
-# Final Project
+# Course Project
+
+TimeLine: In the Course Project Folder
+
+Technical Drawings: In the Course Project Folder
 
 Presentation: 
 
