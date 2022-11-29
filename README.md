@@ -52,7 +52,8 @@ https://github.com/Powta/Hardware-Unity-Project
 
 
 
-# Final Project
+# Course Project
+
 
 Presentation: 
 
