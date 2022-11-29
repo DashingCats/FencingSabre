@@ -51,6 +51,21 @@ Interactive Scene Draft:
 https://github.com/Powta/Hardware-Unity-Project
 
 
+
+# Final Project
+
+Presentation: 
+
+Demo Vid:
+    
+    How the interactive scene works:
+    
+    Audience member trying out the hammer:
+    
+    
+
+Interactive Scene: https://github.com/Powta/Hardware-Unity-Project
+
      
 
 
