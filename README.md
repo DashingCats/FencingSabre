@@ -55,13 +55,13 @@ https://github.com/Powta/Hardware-Unity-Project
 # Course Project
 
 
-Presentation: 
+Presentation: https://www.youtube.com/watch?v=aEFMKmlDaTY&ab_channel=TaylorHorsman
 
 Demo Vid:
     
-    How the interactive scene works:
+    How the interactive scene works: https://www.youtube.com/watch?v=Tya2tfkg5WI
     
-    Audience member trying out the hammer:
+    Audience member trying out the hammer: https://youtube.com/shorts/v0mq--IoasQ?feature=share
     
     
 
