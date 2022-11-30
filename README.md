@@ -54,7 +54,6 @@ https://github.com/Powta/Hardware-Unity-Project
 
 # Course Project
 
-Bill of Materials:
 
 Presentation: https://www.youtube.com/watch?v=aEFMKmlDaTY&ab_channel=TaylorHorsman
 
